@@ -9,4 +9,4 @@ How to make the gemini_api_key.gemini_key file:
 4.) Also make sure that you save your key in the same directory you are running the python file at
 
 
-How to use:Hold down "~" on your keyboard
+How to use: Hold down "~" on your keyboard
